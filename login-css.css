@@ -1,0 +1,45 @@
+
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+
+body
+{
+	font-family: "Open Sans", sans-serif;
+	padding: 0px 0px 0px 0px;
+}
+
+.banner-bar
+{
+	width: 100%;
+	height: 65px;
+	top: 65px;
+	bottom: 0px;
+	left: 0px;
+	background-color: #663399;
+	color: #FFFFFF;
+	position: absolute;
+	font-size: 44pt;
+	vertical-align: middle;
+	line-height: 55px;
+}
+
+.login-bar
+{
+	width: 100%;
+	height: 65px;
+	top: 130px;
+	bottom: 0px;
+	left: 0px;
+	background-color: #26A65B;
+	color: #FFFFFF;
+	position: absolute;
+	font-size: 32pt;
+	vertical-align: middle;
+	line-height: 50px;
+}
+
+.img-block
+{
+	display: inline-block;
+	vertical-align: middle;
+	height: 100%;
+}
